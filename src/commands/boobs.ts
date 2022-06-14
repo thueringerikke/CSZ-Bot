@@ -137,7 +137,9 @@ export class BoobCommand implements MessageCommand {
         "brüste",
         "melonen",
         "vorbau",
-        "balkon"
+        "balkon",
+        "möpse"
+        
     ];
     description = "Zeigt dir die deine Boobs mit Größe an";
 
